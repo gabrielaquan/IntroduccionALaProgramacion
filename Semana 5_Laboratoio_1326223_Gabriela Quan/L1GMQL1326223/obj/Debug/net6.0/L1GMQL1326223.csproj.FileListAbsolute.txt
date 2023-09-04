@@ -1,0 +1,4 @@
+C:\Users\Gabriela Quan\Documents\otros\Personal\Landivar\Programacion\Semana 5_Laboratoio_1326223_Gabriela Quan\L1GMQL1326223\obj\Debug\net6.0\L1GMQL1326223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela Quan\Documents\otros\Personal\Landivar\Programacion\Semana 5_Laboratoio_1326223_Gabriela Quan\L1GMQL1326223\obj\Debug\net6.0\L1GMQL1326223.AssemblyInfoInputs.cache
+C:\Users\Gabriela Quan\Documents\otros\Personal\Landivar\Programacion\Semana 5_Laboratoio_1326223_Gabriela Quan\L1GMQL1326223\obj\Debug\net6.0\L1GMQL1326223.AssemblyInfo.cs
+C:\Users\Gabriela Quan\Documents\otros\Personal\Landivar\Programacion\Semana 5_Laboratoio_1326223_Gabriela Quan\L1GMQL1326223\obj\Debug\net6.0\L1GMQL1326223.csproj.CoreCompileInputs.cache
